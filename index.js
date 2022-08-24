@@ -9,12 +9,19 @@ do
 {
   resultado+=1;
   contador-=1;
+  console.log(resultado);
 }
 while(contador!==0);
 
 return numero+resultado;
 
+
 }
+
+
+
+
+
 
 
 
